@@ -1,0 +1,106 @@
+{
+  "session_id": "full_run",
+  "window": 6,
+  "turns": [
+    {
+      "turn_id": 0,
+      "question": "What is the propulsion system of Chandrayaan-3?",
+      "answer": "The Chandrayaan-3 propulsion system is a Bi-Propellant Propulsion System, utilizing Monomethylhydrazine (MMH) and Mixed Oxides of Nitrogen (MON3). It employs a 440 N liquid apogee motor (LAM) as the main engine for orbit-raising maneuvers and lunar orbit insertion, complemented by four 50 N thrusters for attitude control. The propulsion module carries 1696.39 kg of propellant.",
+      "timestamp": 1782321094.224139,
+      "confidence": 1.0,
+      "citations": [
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 1,
+          "chunk_text": "It uses a 440 N liquid apogee motor (LAM) as the main engine for orbit-raising manoeuvres and lunar orbit insertion. The propulsion module has a total mass of 2148 kg including 1696.39 kg of propellant. Four 50 N thrusters provide attitude control."
+        },
+        {
+          "doc": "LVM3M4_Chandrayaan3_brochure.pdf",
+          "page": 5,
+          "chunk_text": "Propellant Mass\n1696.39 kg\n...\nPropulsion System\nBi-Propellant Propulsion System (MMH + MON3)"
+        }
+      ]
+    },
+    {
+      "turn_id": 1,
+      "question": "What scientific instruments does Mangalyaan carry?",
+      "answer": "Mangalyaan carries five scientific instruments: LAP (Lyman Alpha Photometer) for measuring the relative abundance of deuterium and hydrogen in the Martian upper atmosphere; MSM (Methane Sensor for Mars) for measuring methane in the Martian atmosphere; TIS (Thermal Infrared Imaging Spectrometer) for mapping surface composition and mineralogy; MCC (Mars Colour Camera) for taking images of the Martian surface and its moons Phobos and Deimos; and MENCA (Mars Exospheric Neutral Composition Analyser) for studying the neutral composition of the Martian exosphere.",
+      "timestamp": 1782321101.5447938,
+      "confidence": 1.0,
+      "citations": [
+        {
+          "doc": "mangalyaan_mission_report.pdf",
+          "page": 2,
+          "chunk_text": "Mangalyaan carries five scientific instruments with a total payload mass of 15 kg. The instruments\nare: LAP (Lyman Alpha Photometer) for measuring the relative abundance of deuterium and\nhydrogen in the Martian upper atmosphere; MSM (Methane Sensor for Mars) for measuring\nmethane in the Martian atmosphere; TIS (Thermal Infrared Imaging Spectrometer) for mapping\nsurface composition and mineralogy; MCC (Mars Colour Camera) for taking images of the Martian\nsurface and its moons Phobos and Deimos; and MENCA (Mars Exospheric Neutral Composition\nAnalyser) for studying the neutral composition of the Martian exosphere."
+        }
+      ]
+    },
+    {
+      "turn_id": 2,
+      "question": "What is the significance of the L1 Lagrange point for Aditya-L1?",
+      "answer": "The L1 Lagrange point is significant for Aditya-L1 because it allows for continuous, uninterrupted viewing of the Sun without any occultation or eclipse caused by Earth or the Moon. Additionally, a spacecraft at L1 requires minimal fuel to maintain its position.",
+      "timestamp": 1782321109.5403764,
+      "confidence": 1.0,
+      "citations": [
+        {
+          "doc": "aditya_l1_mission_report.pdf",
+          "page": 2,
+          "chunk_text": "The key advantage of the L1 point for solar observation is that it allows continuous, uninterrupted viewing of the Sun without any occultation or eclipse caused by Earth or Moon. A spacecraft at L1 requires minimal fuel to maintain its position."
+        },
+        {
+          "doc": "aditya_l1_mission_report.pdf",
+          "page": 1,
+          "chunk_text": "The L1 point provides a unique vantage point for continuous, uninterrupted observation of the Sun without any occultation or eclipse."
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "question": "How many astronauts will Gaganyaan carry and what is the mission duration?",
+      "answer": "The Gaganyaan mission is designed to carry a crew of three astronauts for a mission duration of 3 days.",
+      "timestamp": 1782321116.6267567,
+      "confidence": 1.0,
+      "citations": [
+        {
+          "doc": "gaganyaan_mission_report.pdf",
+          "page": 1,
+          "chunk_text": "The programme objective is to launch a crew of three astronauts to an orbit of 400 km altitude for a mission duration of 3 days before returning safely to Earth with a splashdown in the Bay of Bengal."
+        },
+        {
+          "doc": "gaganyaan_mission_report.pdf",
+          "page": 2,
+          "chunk_text": "The Gaganyaan Crew Module (CM) is a pressurised module designed to carry three astronauts."
+        },
+        {
+          "doc": "gaganyaan_mission_report.pdf",
+          "page": 2,
+          "chunk_text": "After reaching the target orbit of 400 km, the crew will conduct scientific experiments and technology demonstrations over 3 days."
+        }
+      ]
+    },
+    {
+      "turn_id": 4,
+      "question": "What did Chandrayaan-3 discover at the lunar south pole?",
+      "answer": "Chandrayaan-3's Pragyan rover confirmed the presence of sulphur on the lunar south pole surface for the first time using the LIBS instrument. The APXS instrument on the rover also detected elements such as aluminium, calcium, iron, chromium, titanium, manganese, silicon, and oxygen in the lunar soil. Additionally, the ChaSTE instrument on the lander measured the temperature profile of the lunar surface, revealing a significant temperature difference of approximately 60 degrees Celsius between the surface and 8 cm below it.",
+      "timestamp": 1782321124.9950194,
+      "confidence": 1.0,
+      "citations": [
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 3,
+          "chunk_text": "The Pragyan rover confirmed the presence of sulphur on the lunar south pole surface for the first time through in-situ measurements using the LIBS instrument. The APXS instrument detected aluminium, calcium, iron, chromium, titanium, manganese, silicon, and oxygen in the lunar soil."
+        },
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 2,
+          "chunk_text": "ChaSTE (Chandra's Surface Thermophysical Experiment) instrument on the lander measured the temperature profile of the lunar surface and found a significant temperature difference of approximately 60 degrees Celsius between the surface and 8 cm below the surface."
+        },
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 2,
+          "chunk_text": "The Chandrayaan-3 lander targeted a landing site near the lunar south pole at approximately 69.37 degrees South latitude and 32.35 degrees East longitude."
+        }
+      ]
+    }
+  ]
+}

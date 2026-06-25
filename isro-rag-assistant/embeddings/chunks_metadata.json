@@ -1,0 +1,362 @@
+[
+  {
+    "chunk_id": "1_p0001_c000",
+    "source_file": "1.pdf",
+    "page_number": 1,
+    "section_title": "ISRO’s Chandrayaan-3 Mission",
+    "mission_name": "Chandrayaan-3",
+    "text": "ISRO’s Chandrayaan-3 Mission \n \nChandrayaan-3 is a follow-on \nmission to Chandrayaan-2 to \ndemonstrate \nend-to-end \ncapability in safe landing and \nroving on the lunar surface. It \nconsists of Lander and Rover \nconfiguration. \nIt \nwill \nbe \nlaunched by LVM3 from SDSC \nSHAR, \nSriharikota. \nThe \npropulsion module will carry \nthe lander and rover configuration till 100 km lunar orbit. The propulsion \nmodule has Spectro-polarimetry of Habitable Planet Earth (SHAPE) payload to \nstudy the spectral and Polari metric measurements of Earth from the lunar \norbit. \n \n \n \n \nChandrayaan-3 consists of an indigenous Lander module (LM), Propulsion \nmodule (PM) and a Rover with an objective of developing and demonstrating \nnew technologies required for Inter planetary missions. The Lander will have",
+    "char_count": 792
+  },
+  {
+    "chunk_id": "1_p0002_c000",
+    "source_file": "1.pdf",
+    "page_number": 2,
+    "section_title": "the capability to soft land at a specified lunar site and deploy the Rover which",
+    "mission_name": "Chandrayaan-3",
+    "text": "the capability to soft land at a specified lunar site and deploy the Rover which \nwill carry out in-situ chemical analysis of the lunar surface during the course \nof its mobility. The Lander and the Rover have scientific payloads to carry out \nexperiments on the lunar surface. The main function of PM is to carry the LM \nfrom launch vehicle injection till final lunar 100 km circular polar orbit and \nseparate the LM from PM. Apart from this, the Propulsion Module also has one \nscientific payload as a value addition which will be operated post separation of \nLander Module. The launcher identified for Chandrayaan-3 is LVM3 M4 which \nwill place the integrated module in an Elliptic Parking Orbit (EPO) of size ~170 \nx 36500 km.",
+    "char_count": 730
+  },
+  {
+    "chunk_id": "1_p0002_c001",
+    "source_file": "1.pdf",
+    "page_number": 2,
+    "section_title": "x 36500 km.",
+    "mission_name": "Chandrayaan-3",
+    "text": "x 36500 km. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSource : ISRO, Department of Space",
+    "char_count": 115
+  },
+  {
+    "chunk_id": "aditya_l1_mission_report_p0001_c000",
+    "source_file": "aditya_l1_mission_report.pdf",
+    "page_number": 1,
+    "section_title": "Aditya-L1 Solar Observatory Mission",
+    "mission_name": "Aditya-L1",
+    "text": "Aditya-L1 Solar Observatory Mission\nIndian Space Research Organisation (ISRO) — 2023\n1. Mission Overview\nAditya-L1 is India's first dedicated solar observatory mission. The spacecraft was launched on 2\nSeptember 2023 by the PSLV-C57 rocket from Satish Dhawan Space Centre, Sriharikota. The\nmission is designed to study the Sun from a halo orbit around the Sun-Earth Lagrange point 1 (L1),\nlocated approximately 1.5 million km from Earth. The L1 point provides a unique vantage point for\ncontinuous, uninterrupted observation of the Sun without any occultation or eclipse.\n2. Scientific Objectives\nThe primary scientific objectives of Aditya-L1 are to study the solar corona and its heating\nmechanism, solar wind acceleration, coupling and dynamics of the solar atmosphere, solar wind",
+    "char_count": 783
+  },
+  {
+    "chunk_id": "aditya_l1_mission_report_p0001_c001",
+    "source_file": "aditya_l1_mission_report.pdf",
+    "page_number": 1,
+    "section_title": "mechanism, solar wind acceleration, coupling and dynamics of the solar atmosphere, solar wind",
+    "mission_name": "Aditya-L1",
+    "text": "mechanism, solar wind acceleration, coupling and dynamics of the solar atmosphere, solar wind\ndistribution and temperature anisotropy, and the origin of coronal mass ejections (CMEs) and flares.\nUnderstanding these phenomena is crucial for space weather prediction, which affects satellite\noperations, power grids, and communication systems on Earth.",
+    "char_count": 350
+  },
+  {
+    "chunk_id": "aditya_l1_mission_report_p0002_c000",
+    "source_file": "aditya_l1_mission_report.pdf",
+    "page_number": 2,
+    "section_title": "3. Scientific Payloads",
+    "mission_name": "Aditya-L1",
+    "text": "3. Scientific Payloads\nAditya-L1 carries seven scientific payloads with a total mass of approximately 244 kg. The payloads\nare: VELC (Visible Emission Line Coronagraph) — the primary payload, designed to study the solar\ncorona and dynamics of coronal mass ejections, built by the Indian Institute of Astrophysics; SUIT\n(Solar Ultraviolet Imaging Telescope) for imaging the solar photosphere and chromosphere in\nnear-UV; SoLEXS (Solar Low Energy X-ray Spectrometer) for monitoring solar X-ray flares;\nHEL1OS (High Energy L1 Orbiting X-ray Spectrometer) for studying hard X-ray flares; ASPEX\n(Aditya Solar wind Particle EXperiment) for studying solar wind protons and alpha particles; PAPA\n(Plasma Analyser Package for Aditya) for measuring solar wind electrons and heavy ions; and MAG",
+    "char_count": 783
+  },
+  {
+    "chunk_id": "aditya_l1_mission_report_p0002_c001",
+    "source_file": "aditya_l1_mission_report.pdf",
+    "page_number": 2,
+    "section_title": "(Plasma Analyser Package for Aditya) for measuring solar wind electrons and heavy ions; and MAG",
+    "mission_name": "Aditya-L1",
+    "text": "(Plasma Analyser Package for Aditya) for measuring solar wind electrons and heavy ions; and MAG\n(Advanced Tri-axial High Resolution Digital Magnetometers) for measuring the interplanetary\nmagnetic field.\n4. The L1 Lagrange Point\nThe Sun-Earth Lagrange point 1 (L1) is a gravitational equilibrium point located approximately 1.5\nmillion km from Earth in the direction of the Sun, which is about 1% of the Earth-Sun distance. A\nspacecraft at L1 requires minimal fuel to maintain its position. The key advantage of the L1 point for\nsolar observation is that it allows continuous, uninterrupted viewing of the Sun without any\noccultation or eclipse caused by Earth or Moon. Aditya-L1 reached its halo orbit around L1 on 6\nJanuary 2024.\n5. VELC Instrument",
+    "char_count": 750
+  },
+  {
+    "chunk_id": "aditya_l1_mission_report_p0002_c002",
+    "source_file": "aditya_l1_mission_report.pdf",
+    "page_number": 2,
+    "section_title": "January 2024.",
+    "mission_name": "Aditya-L1",
+    "text": "January 2024.\n5. VELC Instrument\nThe Visible Emission Line Coronagraph (VELC) is the largest and most complex payload on\nAditya-L1. It is designed to image the solar corona continuously and study the dynamics of coronal\nmass ejections (CMEs). VELC can simultaneously image the corona in three broadband channels\nand perform spectroscopy in one channel. It can observe the corona from 1.05 to 3 solar radii. The\ninstrument is expected to transmit approximately 1440 images per day to the ground station.",
+    "char_count": 502
+  },
+  {
+    "chunk_id": "chandrayaan3_mission_report_p0001_c000",
+    "source_file": "chandrayaan3_mission_report.pdf",
+    "page_number": 1,
+    "section_title": "Chandrayaan-3 Mission Report",
+    "mission_name": "Chandrayaan-3",
+    "text": "Chandrayaan-3 Mission Report\nIndian Space Research Organisation (ISRO) — 2023\n1. Mission Overview\nChandrayaan-3 is India's third lunar exploration mission and the successor to Chandrayaan-2. The\nmission objective is to demonstrate safe and soft landing on the lunar surface, rover roving on the\nMoon, and in-situ scientific experiments. The mission was launched on 14 July 2023 aboard the\nLVM3-M4 launch vehicle from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota. The\nspacecraft successfully achieved a soft landing near the lunar south pole on 23 August 2023,\nmaking India the fourth country to achieve a soft lunar landing and the first to land near the south\npole.\nThe total mission cost was approximately INR 615 crore (approximately USD 75 million), making",
+    "char_count": 767
+  },
+  {
+    "chunk_id": "chandrayaan3_mission_report_p0001_c001",
+    "source_file": "chandrayaan3_mission_report.pdf",
+    "page_number": 1,
+    "section_title": "pole.",
+    "mission_name": "Chandrayaan-3",
+    "text": "pole.\nThe total mission cost was approximately INR 615 crore (approximately USD 75 million), making\nChandrayaan-3 one of the most cost-effective lunar missions in history. The mission demonstrated\nISRO's capability for interplanetary exploration and advanced autonomous navigation.\n2. Mission Architecture\n2.1 Propulsion Module\nThe Chandrayaan-3 propulsion module carries the spacecraft from launch injection to lunar orbit. It\nuses a 440 N liquid apogee motor (LAM) as the main engine for orbit-raising manoeuvres and lunar\norbit insertion. The propulsion module has a total mass of 2148 kg including 1696.39 kg of\npropellant. Four 50 N thrusters provide attitude control. The propulsion module also carries the",
+    "char_count": 712
+  },
+  {
+    "chunk_id": "chandrayaan3_mission_report_p0001_c002",
+    "source_file": "chandrayaan3_mission_report.pdf",
+    "page_number": 1,
+    "section_title": "propellant. Four 50 N thrusters provide attitude control. The propulsion module also carries the",
+    "mission_name": "Chandrayaan-3",
+    "text": "propellant. Four 50 N thrusters provide attitude control. The propulsion module also carries the\nSHAPE (Spectro-polarimetry of HAbitable Planet Earth) scientific payload, which studies Earth's\nspectral and polarimetric signatures from lunar orbit.\n2.2 Lander Module (Vikram)\nThe lander module, named Vikram, has a mass of 1752 kg including the Pragyan rover. It is\nequipped with four throttleable engines of 800 N thrust each for the powered descent phase. The\nlander uses a Lander Hazard Detection and Avoidance Camera (LHDAC) and a Laser Doppler\nVelocimeter (LDV) for autonomous hazard detection during the final descent. Solar panels generate\n738 W of power. The lander communicates with IDSN (Indian Deep Space Network) at Byalalu via",
+    "char_count": 738
+  },
+  {
+    "chunk_id": "chandrayaan3_mission_report_p0001_c003",
+    "source_file": "chandrayaan3_mission_report.pdf",
+    "page_number": 1,
+    "section_title": "738 W of power. The lander communicates with IDSN (Indian Deep Space Network) at Byalalu via",
+    "mission_name": "Chandrayaan-3",
+    "text": "738 W of power. The lander communicates with IDSN (Indian Deep Space Network) at Byalalu via\nS-band and X-band links, and also uses the Chandrayaan-2 orbiter as a communication relay.",
+    "char_count": 183
+  },
+  {
+    "chunk_id": "chandrayaan3_mission_report_p0002_c000",
+    "source_file": "chandrayaan3_mission_report.pdf",
+    "page_number": 2,
+    "section_title": "2.3 Rover (Pragyan)",
+    "mission_name": "Chandrayaan-3",
+    "text": "2.3 Rover (Pragyan)\nThe Pragyan rover has a mass of 26 kg and is designed for one lunar day (approximately 14 Earth\ndays) of operation. It moves at a speed of 1 cm/s on the lunar surface. The rover carries two\nscientific payloads: APXS (Alpha Particle X-ray Spectrometer) for elemental analysis of the lunar\nsurface, and LIBS (Laser Induced Breakdown Spectroscope) for determining the elemental\ncomposition of rocks and soil. The rover generates 50 W of power from its solar panel.\n3. Landing Site\nThe Chandrayaan-3 lander targeted a landing site near the lunar south pole at approximately 69.37\ndegrees South latitude and 32.35 degrees East longitude. The south polar region is scientifically\nsignificant because permanently shadowed craters in this region may contain water ice deposits.",
+    "char_count": 789
+  },
+  {
+    "chunk_id": "chandrayaan3_mission_report_p0002_c001",
+    "source_file": "chandrayaan3_mission_report.pdf",
+    "page_number": 2,
+    "section_title": "significant because permanently shadowed craters in this region may contain water ice deposits.",
+    "mission_name": "Chandrayaan-3",
+    "text": "significant because permanently shadowed craters in this region may contain water ice deposits.\nThese water ice deposits could serve as resources for future lunar exploration and potential human\nhabitation on the Moon. The landing site was selected based on orbital imagery from\nChandrayaan-2 and other lunar orbiters.\n4. Scientific Discoveries\nThe Pragyan rover confirmed the presence of sulphur on the lunar south pole surface for the first\ntime through in-situ measurements using the LIBS instrument. The APXS instrument detected\naluminium, calcium, iron, chromium, titanium, manganese, silicon, and oxygen in the lunar soil. The\nChaSTE (Chandra's Surface Thermophysical Experiment) instrument on the lander measured the",
+    "char_count": 723
+  },
+  {
+    "chunk_id": "chandrayaan3_mission_report_p0002_c002",
+    "source_file": "chandrayaan3_mission_report.pdf",
+    "page_number": 2,
+    "section_title": "ChaSTE (Chandra's Surface Thermophysical Experiment) instrument on the lander measured the",
+    "mission_name": "Chandrayaan-3",
+    "text": "ChaSTE (Chandra's Surface Thermophysical Experiment) instrument on the lander measured the\ntemperature profile of the lunar surface and found a significant temperature difference of\napproximately 60 degrees Celsius between the surface and 8 cm below the surface.\n5. Communication System\nChandrayaan-3 uses a dual-frequency communication system. The lander communicates directly\nwith the Indian Deep Space Network (IDSN) ground station at Byalalu, Bengaluru using S-band\n(uplink) and X-band (downlink) frequencies. Additionally, the Chandrayaan-2 orbiter, which remains\noperational in lunar orbit, serves as a communication relay between the lander and Earth. This relay\ncapability was pre-planned as a contingency and was successfully demonstrated during the\nmission.",
+    "char_count": 767
+  },
+  {
+    "chunk_id": "gaganyaan_mission_report_p0001_c000",
+    "source_file": "gaganyaan_mission_report.pdf",
+    "page_number": 1,
+    "section_title": "Gaganyaan Human Spaceflight Programme",
+    "mission_name": "Gaganyaan",
+    "text": "Gaganyaan Human Spaceflight Programme\nIndian Space Research Organisation (ISRO) — Programme Overview\n1. Programme Overview\nGaganyaan is India's first human spaceflight programme, aimed at demonstrating the capability to\nsend Indian astronauts (Vyomanauts) to low Earth orbit and return them safely to Earth. The\nprogramme objective is to launch a crew of three astronauts to an orbit of 400 km altitude for a\nmission duration of 3 days before returning safely to Earth with a splashdown in the Bay of Bengal.\nThe programme will make India the fourth country in the world to independently send humans to\nspace, after the USA, Russia, and China.\n2. Launch Vehicle\nGaganyaan will use the Human Rated LVM3 (HLVM3) launch vehicle, which is a modified version of",
+    "char_count": 756
+  },
+  {
+    "chunk_id": "gaganyaan_mission_report_p0001_c001",
+    "source_file": "gaganyaan_mission_report.pdf",
+    "page_number": 1,
+    "section_title": "Gaganyaan will use the Human Rated LVM3 (HLVM3) launch vehicle, which is a modified version of",
+    "mission_name": "Gaganyaan",
+    "text": "Gaganyaan will use the Human Rated LVM3 (HLVM3) launch vehicle, which is a modified version of\nthe LVM3 (formerly GSLV Mk III) rocket. The HLVM3 has been upgraded with additional safety\nfeatures including a Crew Escape System (CES) that can pull the crew module away from the rocket\nin case of an emergency during launch or ascent. The rocket uses two solid strap-on boosters\n(S200), a liquid core stage (L110) with two Vikas engines, and a cryogenic upper stage (C25) with a\nCE-20 engine.",
+    "char_count": 489
+  },
+  {
+    "chunk_id": "gaganyaan_mission_report_p0002_c000",
+    "source_file": "gaganyaan_mission_report.pdf",
+    "page_number": 2,
+    "section_title": "3. Crew Module",
+    "mission_name": "Gaganyaan",
+    "text": "3. Crew Module\nThe Gaganyaan Crew Module (CM) is a pressurised module designed to carry three astronauts. It\nhas a mass of approximately 5700 kg and an inner volume of approximately 8 cubic metres. The\nmodule is equipped with life support systems that maintain a shirt-sleeve environment for the crew.\nThe Crew Module is designed to withstand re-entry heating and splashes down in the sea, where it\nis recovered by the Indian Navy. The module uses a parachute system for deceleration during\nre-entry.\n4. Astronaut Training\nFour Indian Air Force pilots have been selected as astronaut candidates for the Gaganyaan\nprogramme. They underwent initial training in Russia at the Yuri Gagarin Cosmonaut Training\nCentre (GCTC) in Star City. Training includes physical conditioning, spacecraft systems",
+    "char_count": 792
+  },
+  {
+    "chunk_id": "gaganyaan_mission_report_p0002_c001",
+    "source_file": "gaganyaan_mission_report.pdf",
+    "page_number": 2,
+    "section_title": "Centre (GCTC) in Star City. Training includes physical conditioning, spacecraft systems",
+    "mission_name": "Gaganyaan",
+    "text": "Centre (GCTC) in Star City. Training includes physical conditioning, spacecraft systems\nfamiliarisation, survival training, and microgravity adaptation. Additional mission-specific training is\nconducted at ISRO's astronaut training facility in Bengaluru.\n5. Mission Sequence\nThe Gaganyaan mission sequence begins with launch from Satish Dhawan Space Centre at\nSriharikota. After reaching the target orbit of 400 km, the crew will conduct scientific experiments\nand technology demonstrations over 3 days. Re-entry is initiated by a deorbit burn, followed by\natmospheric re-entry with peak heating of approximately 1600 degrees Celsius on the heat shield.\nThe crew module deploys parachutes at an altitude of approximately 15 km and splashes down in",
+    "char_count": 747
+  },
+  {
+    "chunk_id": "gaganyaan_mission_report_p0002_c002",
+    "source_file": "gaganyaan_mission_report.pdf",
+    "page_number": 2,
+    "section_title": "The crew module deploys parachutes at an altitude of approximately 15 km and splashes down in",
+    "mission_name": "Gaganyaan",
+    "text": "The crew module deploys parachutes at an altitude of approximately 15 km and splashes down in\nthe Bay of Bengal, approximately 500 km off the coast of India.",
+    "char_count": 157
+  },
+  {
+    "chunk_id": "LVM3M4_Chandrayaan3_brochure_p0001_c000",
+    "source_file": "LVM3M4_Chandrayaan3_brochure.pdf",
+    "page_number": 1,
+    "section_title": "Indian Space Research Organisation",
+    "mission_name": "Chandrayaan-3",
+    "text": "Indian Space Research Organisation\nLVM3-M4/CHANDRAYAAN-3\nMOON MISSION",
+    "char_count": 69
+  },
+  {
+    "chunk_id": "LVM3M4_Chandrayaan3_brochure_p0002_c000",
+    "source_file": "LVM3M4_Chandrayaan3_brochure.pdf",
+    "page_number": 2,
+    "section_title": "Chandrayaan-3, India’s third lunar exploration mission is ready",
+    "mission_name": "Chandrayaan-3",
+    "text": "Chandrayaan-3, India’s third lunar exploration mission is ready \nto take off in fourth operational mission (M4) of LVM3 launcher. \nISRO is crossing new frontiers by demonstrating soft landing on \nlunar surface by its lunar module and demonstrate roving on \nthe lunar terrain. It is expected to be supportive to ISRO’s future \ninterplanetary missions.\nAdditionally the deployment of rover and in-situ scientific \nexperiment will scale new heights in lunar expeditions by \ndeploying Rover. Yes, ISRO is bringing the Moon closer to us. \nLVM3-M4/\nChandrayaan-3 \nMission\n\nIntegrated Module Phase\nEBNs\nLunar Transfer Trajectory\nLunar Orbit Insertion\nLunar Orbit\nInjection Orbit",
+    "char_count": 671
+  },
+  {
+    "chunk_id": "LVM3M4_Chandrayaan3_brochure_p0003_c000",
+    "source_file": "LVM3M4_Chandrayaan3_brochure.pdf",
+    "page_number": 3,
+    "section_title": "• Pre-launch Phase",
+    "mission_name": "Chandrayaan-3",
+    "text": "• Pre-launch Phase \n• Launch and Ascent Phase \n• Earth-bound Manoeuvre Phase \n• Transfer Trajectory Phase \n \n• Lunar Orbit Insertion Phase (LOI)-(Phase-3) \n• Moon-bound Manoeuvre Phase (Phase-4) \n• PM and Lunar Module Separation (Phase-5) \n• De-boost Phase (Phase-6)\n• Pre-landing Phase (Phase-7) \n• Landing Phase (Phase-8) \n• Normal Phase for Lander and Rover (Phase-9)\n• Moon Centric Normal Orbit Phase \n(100 km circular orbit) - For Propulsion Module \n(Phase-10) \nMission sequence\nThe various mission phases are classified as follows: \n1. Earth Centric Phase (Phase-1)\n2. Lunar Transfer Phase (Phase-2)\n3. Moon Centric Phase",
+    "char_count": 627
+  },
+  {
+    "chunk_id": "LVM3M4_Chandrayaan3_brochure_p0004_c000",
+    "source_file": "LVM3M4_Chandrayaan3_brochure.pdf",
+    "page_number": 4,
+    "section_title": "Chandrayaan-3 consists of an indigenous",
+    "mission_name": "Chandrayaan-3",
+    "text": "Chandrayaan-3 consists of an indigenous \npropulsion module, lander module, and a \nrover with an objective of developing and \ndemonstrating new technologies required for \ninter-planetary missions. \nThe propulsion module will carry the lander \nand rover from injection orbit to till \n100 km lunar orbit. It also carries a \nSpectro-polarimetry of Habitable Planetary \nEarth (SHAPE) payload to study the spectral \nand polarimetric measurements of earth from \nthe lunar orbit. \nThe main function of Propulsion Module is \nto carry the LM from launch vehicle injection \norbit to till Lander separation. \nPropulsion Module \nLVM3-M4/\nChandrayaan-3 \nMission",
+    "char_count": 647
+  },
+  {
+    "chunk_id": "LVM3M4_Chandrayaan3_brochure_p0005_c000",
+    "source_file": "LVM3M4_Chandrayaan3_brochure.pdf",
+    "page_number": 5,
+    "section_title": "Major Specifications of",
+    "mission_name": "Chandrayaan-3",
+    "text": "Major Specifications of \nPropulsion Module\nSl.No\nParameter\nSpecifications\n1.\nLunar Polar Orbit\nFrom 170 x 36500 km to lunar polar orbit\n2.\nMission life\nCarrying Lander Module & Rover upto ~100 x 100 \nkm launch injection. Subsequently, operation of \nexperimental payload for a period of 3 to 6 months.\n3.\nStructure\nModified version of I-3 K\n4.\nDry Mass\n448.62 kg (including pressurant)\n5.\nPropellant Mass\n1696.39 kg\n6.\nTotal PM Mass\n2145.01 kg\n7.\nPower Generation\n738 W, Summer solistices and with bias\n8.\nCommunication\nS-Band Transponder (TTC) – with IDSN\n9.\nAttitude Sensors\nCASS, IRAP, Micro star sensor\n10.\nPropulsion System\nBi-Propellant Propulsion System (MMH + MON3)",
+    "char_count": 672
+  },
+  {
+    "chunk_id": "LVM3M4_Chandrayaan3_brochure_p0006_c000",
+    "source_file": "LVM3M4_Chandrayaan3_brochure.pdf",
+    "page_number": 6,
+    "section_title": "Major Specifications of Lander",
+    "mission_name": "Chandrayaan-3",
+    "text": "Major Specifications of Lander\nMission life\t\n: 1 Lunar day (14 Earth days)\nMass\t\n: 1749.86 kg including Rover\nPower\t\n: 738 W (Winter solstice)\nPayloads\t\n: 3\nDimensions (mm3)\t: 2000 x 2000 x 1166\nCommunication\t\n: ISDN, Ch-2 Orbiter, Rover\nLanding site\t\n: 69.367621 S, 32.348126 E\nMajor Specifications of Rover\nMission Life\t\n: 1 Lunar day\nMass\t\n: 26 kg\nPower \n: 50 W\nPayloads \n: 2\nDimensions (mm3) : 917 x 750 x 397\nCommunication \n: Lander\nLVM3-M4/\nChandrayaan-3 \nMission",
+    "char_count": 469
+  },
+  {
+    "chunk_id": "LVM3M4_Chandrayaan3_brochure_p0007_c000",
+    "source_file": "LVM3M4_Chandrayaan3_brochure.pdf",
+    "page_number": 7,
+    "section_title": "Lander Payloads",
+    "mission_name": "Chandrayaan-3",
+    "text": "Lander Payloads\nRover Payloads\nPropulsion Module \nPayload",
+    "char_count": 57
+  },
+  {
+    "chunk_id": "LVM3M4_Chandrayaan3_brochure_p0007_c001",
+    "source_file": "LVM3M4_Chandrayaan3_brochure.pdf",
+    "page_number": 7,
+    "section_title": "RAMBHA-LP",
+    "mission_name": "Chandrayaan-3",
+    "text": "RAMBHA-LP\nLangmuir Probe\nTo measure the near \nsurface plasma (ions and \nelectrons) density and its \nchanges with time.\nAPXS\nAlpha Particle X-Ray \nSpectrometer\nTo derive the chemical \ncomposition and infer \nmineralogical composition \nto further enhance our \nunderstanding of lunar \nsurface. \nLIBS \nLaser Induced \nBreakdown \nSpectroscope\nTo determine the elemental \ncomposition (Mg, Al, Si, K, \nCa,Ti, Fe) of lunar soil and \nrocks around the lunar \nlanding site. \nSHAPE \nSpectro-polarimetry of \nHAbitable Planet Earth\nAn experimental payload to study \nthe spectro-polarimetric signatures \nof the habitable planet Earth in \nthe near-infrared (NIR) wavelength \nrange (1‑1.7 μm).\nChaSTE\nChandra’s Surface Thermo-\nphysical Experiment\nTo carry out the measurements \nof thermal properties of lunar",
+    "char_count": 789
+  },
+  {
+    "chunk_id": "LVM3M4_Chandrayaan3_brochure_p0007_c002",
+    "source_file": "LVM3M4_Chandrayaan3_brochure.pdf",
+    "page_number": 7,
+    "section_title": "physical Experiment",
+    "mission_name": "Chandrayaan-3",
+    "text": "physical Experiment\nTo carry out the measurements \nof thermal properties of lunar \nsurface near polar region. \nILSA\nInstrument for Lunar Seismic \nActivity\nTo measure seismicity around the \nlanding site and delineating the \nstructure of the lunar crust and mantle.",
+    "char_count": 263
+  },
+  {
+    "chunk_id": "LVM3M4_Chandrayaan3_brochure_p0008_c000",
+    "source_file": "LVM3M4_Chandrayaan3_brochure.pdf",
+    "page_number": 8,
+    "section_title": "Height",
+    "mission_name": "Chandrayaan-3",
+    "text": "Height\n43.5 m \nLift-off Mass\n642 t \nPropulsion Stages\nStrap-on Motors 2 x S200 \n(Solid)\nCore Stage\nL110 (Liquid)\nUpper Stage\nC25 (Cryo)\nPayload Fairing\n5 m OPLF \nLVM3-M4 Vehicle \nCharacteristics\nPayload Mass: 3895 kg\nLVM3-M4 Vehicle Configuration\n(2S200+L110+C25+PLF)\nLVM3-M4/\nChandrayaan-3 \nMission",
+    "char_count": 299
+  },
+  {
+    "chunk_id": "LVM3M4_Chandrayaan3_brochure_p0008_c001",
+    "source_file": "LVM3M4_Chandrayaan3_brochure.pdf",
+    "page_number": 8,
+    "section_title": "LVM3 is the operational heavy lift",
+    "mission_name": "Chandrayaan-3",
+    "text": "LVM3 is the operational heavy lift \nlaunch vehicle of ISRO and has a \nspectacular pedigree of completing \n6 consecutive successful missions. This \nis the 4th operational flight of LVM3, \naims to launch the Chandrayaan-3 \nspacecraft to Geo Transfer Orbit (GTO).\nLVM3 has proved its versatility to \nundertake most complex missions \nlike: \n Injecting multi-satellites \n Mission planning to ensure safe \nrelative distance among \nseparated satellites through \nre-orientation and velocity \naddition maneuvers.\n Multi orbit (LEO, MEO, GEO) and \nexecute interplanetary missions.\n India’s largest and heaviest \nlaunch vehicle ferrying indian and \ninternational customer satellites.\nLVM3-M4 will be launched from the \nSecond Launch Pad (SLP), SDSC, SHAR.",
+    "char_count": 744
+  },
+  {
+    "chunk_id": "LVM3M4_Chandrayaan3_brochure_p0009_c000",
+    "source_file": "LVM3M4_Chandrayaan3_brochure.pdf",
+    "page_number": 9,
+    "section_title": "LVM3-M4 Mission Specifications",
+    "mission_name": "Chandrayaan-3",
+    "text": "LVM3-M4 Mission Specifications\nPayload \nAccommodation\nGTO Apogee \n36500 ± 500 km\nGTO Perigee \n170 ± 3.5 km\nInclination \n21.3⁰\nArgument of Perigee\n178 ± 0.2⁰\nLaunch Pad\nSLP\nLaunch Azimuth\n107⁰\nLVM3-M4 Stages at a Glance\nStages\nStrap-Ons \n(2 x S200)\nCore Stage \n(L110)\nUpper \nStage \n(C25) \nLength (m)\n26.22\n21.4\n13.5\nDiameter (m)\n3.2\n4.0\n4.0\nPropellant \nType\nSolid \n(HTPB)\nLiquid\n(UH25 + N2O4)\nCryo \n(LH2 & LOX)\nPropellant \nMass (t)\n204.5 \n(each)\n115.8\n28.6",
+    "char_count": 455
+  },
+  {
+    "chunk_id": "LVM3M4_Chandrayaan3_brochure_p0010_c000",
+    "source_file": "LVM3M4_Chandrayaan3_brochure.pdf",
+    "page_number": 10,
+    "section_title": "S200",
+    "mission_name": "Chandrayaan-3",
+    "text": "S200 \nIgnition\nL110 \nIgnition\nS200 Separation\nL110 Burning \nPhase\nPLF \nSeparation\nL110 \nSeparation\nC25 \nIgnition\nC25 \nShut-off\nLVM3-M4/\nChandrayaan-3 \nMission\nNominal Flight Sequence\n Event\nFlight \nTime (s)\nAltitude \n(km)\nInertial \nVelocity \n(km/s)\n2xS200 Ignition\n0.00\n0.024\n0.452\nL110 Ignition\n108.10\n44.668\n1.788\n2xS200 Separation\n127.00\n62.171\n1.969\nPLF Separation\n194.96\n114.805\n2.560\nL110 Separation\n305.56\n175.352\n4.623\nC25 Ignition\n307.96\n176.573\n4.621\nC25 Shut-off\n954.42\n174.695\n10.242\nSatellite Separation\n969.42\n179.192\n10.269\n\nSatellite Separation",
+    "char_count": 560
+  },
+  {
+    "chunk_id": "LVM3M4_Chandrayaan3_brochure_p0011_c000",
+    "source_file": "LVM3M4_Chandrayaan3_brochure.pdf",
+    "page_number": 11,
+    "section_title": "LVM3-M4 Vehicle",
+    "mission_name": "Chandrayaan-3",
+    "text": "LVM3-M4 Vehicle\nS200 Solid \nRocket \nBoosters\nPayload Fairing\nChandrayaan-3 \nSpacecraft\nC25 Cryogenic Stage\nL110 Liquid Stage",
+    "char_count": 124
+  },
+  {
+    "chunk_id": "LVM3M4_Chandrayaan3_brochure_p0012_c000",
+    "source_file": "LVM3M4_Chandrayaan3_brochure.pdf",
+    "page_number": 12,
+    "section_title": "Capacity Building and Public Outreach (CBPO)",
+    "mission_name": "Chandrayaan-3",
+    "text": "Capacity Building and Public Outreach (CBPO)\nIndian Space Research Organisation\nDepartment of Space, Government of India\nAntariksh Bhavan, New BEL Road, Bengaluru-560094, India\nTelephone : +91 80 22172119 \nwww.facebook.com/ISRO/\n@isro\n@isroofficial5866/featured\nwww.isro.gov.in\nIntegration Activities of LVM3-M4",
+    "char_count": 311
+  },
+  {
+    "chunk_id": "mangalyaan_mission_report_p0001_c000",
+    "source_file": "mangalyaan_mission_report.pdf",
+    "page_number": 1,
+    "section_title": "Mars Orbiter Mission (Mangalyaan)",
+    "mission_name": "Mangalyaan",
+    "text": "Mars Orbiter Mission (Mangalyaan)\nIndian Space Research Organisation (ISRO) — 2013–2022\n1. Mission Overview\nThe Mars Orbiter Mission (MOM), informally known as Mangalyaan, is India's first interplanetary\nmission. It was launched on 5 November 2013 by the Polar Satellite Launch Vehicle (PSLV-C25)\nfrom Satish Dhawan Space Centre, Sriharikota. The spacecraft was inserted into Mars orbit on 24\nSeptember 2014, making India the first Asian nation to reach Martian orbit and the first nation in the\nworld to do so in its maiden attempt. The total mission cost was approximately INR 450 crore\n(approximately USD 74 million at the time), making it the least expensive Mars mission to date.\n2. Mission Objectives",
+    "char_count": 706
+  },
+  {
+    "chunk_id": "mangalyaan_mission_report_p0001_c001",
+    "source_file": "mangalyaan_mission_report.pdf",
+    "page_number": 1,
+    "section_title": "2. Mission Objectives",
+    "mission_name": "Mangalyaan",
+    "text": "2. Mission Objectives\nThe primary objective of Mangalyaan was to develop the technologies required for design, planning,\nmanagement, and operations of an interplanetary mission. The secondary scientific objectives\nincluded exploration of Mars surface features, morphology, mineralogy, and the Martian atmosphere\nusing indigenous scientific instruments. The mission demonstrated ISRO's capability to develop and\noperate a spacecraft over interplanetary distances.",
+    "char_count": 462
+  },
+  {
+    "chunk_id": "mangalyaan_mission_report_p0002_c000",
+    "source_file": "mangalyaan_mission_report.pdf",
+    "page_number": 2,
+    "section_title": "3. Scientific Instruments",
+    "mission_name": "Mangalyaan",
+    "text": "3. Scientific Instruments\nMangalyaan carries five scientific instruments with a total payload mass of 15 kg. The instruments\nare: LAP (Lyman Alpha Photometer) for measuring the relative abundance of deuterium and\nhydrogen in the Martian upper atmosphere; MSM (Methane Sensor for Mars) for measuring\nmethane in the Martian atmosphere; TIS (Thermal Infrared Imaging Spectrometer) for mapping\nsurface composition and mineralogy; MCC (Mars Colour Camera) for taking images of the Martian\nsurface and its moons Phobos and Deimos; and MENCA (Mars Exospheric Neutral Composition\nAnalyser) for studying the neutral composition of the Martian exosphere.\n4. Spacecraft and Orbit\nThe Mangalyaan spacecraft has a launch mass of 1337 kg including 852 kg of propellant. It uses a",
+    "char_count": 765
+  },
+  {
+    "chunk_id": "mangalyaan_mission_report_p0002_c001",
+    "source_file": "mangalyaan_mission_report.pdf",
+    "page_number": 2,
+    "section_title": "The Mangalyaan spacecraft has a launch mass of 1337 kg including 852 kg of propellant. It uses a",
+    "mission_name": "Mangalyaan",
+    "text": "The Mangalyaan spacecraft has a launch mass of 1337 kg including 852 kg of propellant. It uses a\n440 N liquid apogee motor for major manoeuvres. The spacecraft is in a highly elliptical orbit around\nMars with a periapsis of approximately 421 km and an apoapsis of approximately 76,993 km, with\nan orbital period of about 72.7 hours. The orbit was chosen to allow observation of the entire\nMartian disc and to study the upper atmosphere.\n5. Journey to Mars\nAfter launch on 5 November 2013, Mangalyaan performed a series of orbit-raising manoeuvres\naround Earth before the Trans-Mars Injection (TMI) burn on 1 December 2013. The spacecraft\ntravelled approximately 780 million km over 298 days to reach Mars. The Mars Orbit Insertion (MOI)",
+    "char_count": 736
+  },
+  {
+    "chunk_id": "mangalyaan_mission_report_p0002_c002",
+    "source_file": "mangalyaan_mission_report.pdf",
+    "page_number": 2,
+    "section_title": "travelled approximately 780 million km over 298 days to reach Mars. The Mars Orbit Insertion (MOI)",
+    "mission_name": "Mangalyaan",
+    "text": "travelled approximately 780 million km over 298 days to reach Mars. The Mars Orbit Insertion (MOI)\nburn was performed on 24 September 2014, lasting approximately 24 minutes, reducing the\nspacecraft velocity sufficiently to be captured by Martian gravity. The mission operated for over 8\nyears before communication was lost in September 2022.",
+    "char_count": 341
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "session_id": "full_run_mt",
+  "window": 4,
+  "turns": [
+    {
+      "turn_id": 0,
+      "question": "What is Chandrayaan-3?",
+      "answer": "Chandrayaan-3 is India's third lunar exploration mission and a successor to Chandrayaan-2. Its primary objectives are to demonstrate safe and soft landing on the lunar surface, rover roving on the Moon, and to conduct in-situ scientific experiments. The mission also aims to develop and demonstrate new technologies required for future inter-planetary missions. Chandrayaan-3 consists of an indigenous propulsion module, a lander module, and a rover. It was launched on July 14, 2023, aboard the LVM3-M4 launch vehicle from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota, and successfully achieved a soft landing near the lunar south pole on August 23, 2023.",
+      "timestamp": 1782321135.349185,
+      "confidence": 1.0,
+      "citations": [
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 1,
+          "chunk_text": "Chandrayaan-3 is India's third lunar exploration mission and the successor to Chandrayaan-2. The mission objective is to demonstrate safe and soft landing on the lunar surface, rover roving on the Moon, and in-situ scientific experiments. The mission was launched on 14 July 2023 aboard the LVM3-M4 launch vehicle from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota. The spacecraft successfully achieved a soft landing near the lunar south pole on 23 August 2023, making India the fourth country to achieve a soft lunar landing and the first to land near the south pole."
+        },
+        {
+          "doc": "LVM3M4_Chandrayaan3_brochure.pdf",
+          "page": 2,
+          "chunk_text": "Chandrayaan-3, India’s third lunar exploration mission is ready \nto take off in fourth operational mission (M4) of LVM3 launcher. \nISRO is crossing new frontiers by demonstrating soft landing on \nlunar surface by its lunar module and demonstrate roving on \nthe lunar terrain. It is expected to be supportive to ISRO’s future \ninterplanetary missions."
+        },
+        {
+          "doc": "LVM3M4_Chandrayaan3_brochure.pdf",
+          "page": 4,
+          "chunk_text": "Chandrayaan-3 consists of an indigenous \npropulsion module, lander module, and a \nrover with an objective of developing and \ndemonstrating new technologies required for \ninter-planetary missions."
+        },
+        {
+          "doc": "1.pdf",
+          "page": 2,
+          "chunk_text": "the capability to soft land at a specified lunar site and deploy the Rover which \nwill carry out in-situ chemical analysis of the lunar surface during the course \nof its mobility. The Lander and the Rover have scientific payloads to carry out \nexperiments on the lunar surface. The main function of PM is to carry the LM \nfrom launch vehicle injection till final lunar 100 km circular polar orbit and \nseparate the LM from PM. Apart from this, the Propulsion Module also has one \nscientific payload as a value addition which will be operated post separation of \nLander Module. The launcher identified for Chandrayaan-3 is LVM3 M4 which \nwill place the integrated module in an Elliptic Parking Orbit (EPO) of size ~170 \nx 36500 km."
+        },
+        {
+          "doc": "1.pdf",
+          "page": 1,
+          "chunk_text": "ISRO’s Chandrayaan-3 Mission \n \nChandrayaan-3 is a follow-on \nmission to Chandrayaan-2 to \ndemonstrate \nend-to-end \ncapability in safe landing and \nroving on the lunar surface. It \nconsists of Lander and Rover \nconfiguration."
+        }
+      ]
+    },
+    {
+      "turn_id": 1,
+      "question": "What did it discover?",
+      "answer": "The provided documents do not contain sufficient information to answer this question.",
+      "timestamp": 1782321209.6970975,
+      "confidence": 0.0,
+      "citations": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+# Core
+python-dotenv>=1.0.1
+pydantic>=2.7.1
+
+# PDF Processing  (1.25.5+ has Python 3.14 wheels)
+PyMuPDF>=1.25.5
+pytesseract>=0.3.10
+Pillow>=10.3.0
+
+# LangChain
+langchain>=0.2.1
+langchain-community>=0.2.1
+langchain-anthropic>=0.1.15
+langchain-text-splitters>=0.2.0
+langchain-google-genai>=1.0.6
+
+# Embeddings & Vector Store
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+torch>=2.3.0
+transformers>=4.41.1
+
+# BM25
+rank-bm25>=0.2.2
+
+# Anthropic (optional — only needed if using Claude)
+anthropic>=0.28.0
+
+# Google Gemini
+google-genai>=1.0.0
+google-generativeai>=0.8.0
+
+# Streamlit Dashboard
+streamlit>=1.35.0
+plotly>=5.22.0
+
+# FastAPI REST layer
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.1
+
+# Evaluation
+ragas>=0.1.9
+datasets>=2.19.2
+pandas>=2.2.2
+numpy>=1.26.4
+
+# Utilities
+tqdm>=4.66.4
+loguru>=0.7.2
+httpx>=0.27.0

@@ -1,0 +1,94 @@
+{
+  "session_id": "65fefa6e",
+  "window": 6,
+  "turns": [
+    {
+      "turn_id": 0,
+      "question": "\nWhat is Chandrayaan-3?\n",
+      "answer": "Chandrayaan-3 is India's third lunar exploration mission and a successor to Chandrayaan-2. Its primary objectives are to demonstrate safe and soft landing on the lunar surface, rover roving on the Moon, and to conduct in-situ scientific experiments. The mission also aims to develop and demonstrate new technologies required for future inter-planetary missions. Chandrayaan-3 consists of an indigenous propulsion module, a lander module, and a rover. It was launched on July 14, 2023, aboard the LVM3-M4 launch vehicle from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota, and successfully achieved a soft landing near the lunar south pole on August 23, 2023.",
+      "timestamp": 1782403487.29644,
+      "confidence": 1.0,
+      "citations": [
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 1,
+          "chunk_text": "Chandrayaan-3 is India's third lunar exploration mission and the successor to Chandrayaan-2. The mission objective is to demonstrate safe and soft landing on the lunar surface, rover roving on the Moon, and in-situ scientific experiments. The mission was launched on 14 July 2023 aboard the LVM3-M4 launch vehicle from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota. The spacecraft successfully achieved a soft landing near the lunar south pole on 23 August 2023, making India the fourth country to achieve a soft lunar landing and the first to land near the south pole."
+        },
+        {
+          "doc": "LVM3M4_Chandrayaan3_brochure.pdf",
+          "page": 2,
+          "chunk_text": "Chandrayaan-3, India’s third lunar exploration mission is ready \nto take off in fourth operational mission (M4) of LVM3 launcher. \nISRO is crossing new frontiers by demonstrating soft landing on \nlunar surface by its lunar module and demonstrate roving on \nthe lunar terrain. It is expected to be supportive to ISRO’s future \ninterplanetary missions."
+        },
+        {
+          "doc": "LVM3M4_Chandrayaan3_brochure.pdf",
+          "page": 4,
+          "chunk_text": "Chandrayaan-3 consists of an indigenous \npropulsion module, lander module, and a \nrover with an objective of developing and \ndemonstrating new technologies required for \ninter-planetary missions."
+        },
+        {
+          "doc": "1.pdf",
+          "page": 2,
+          "chunk_text": "the capability to soft land at a specified lunar site and deploy the Rover which \nwill carry out in-situ chemical analysis of the lunar surface during the course \nof its mobility. The Lander and the Rover have scientific payloads to carry out \nexperiments on the lunar surface. The main function of PM is to carry the LM \nfrom launch vehicle injection till final lunar 100 km circular polar orbit and \nseparate the LM from PM. Apart from this, the Propulsion Module also has one \nscientific payload as a value addition which will be operated post separation of \nLander Module. The launcher identified for Chandrayaan-3 is LVM3 M4 which \nwill place the integrated module in an Elliptic Parking Orbit (EPO) of size ~170 \nx 36500 km."
+        },
+        {
+          "doc": "1.pdf",
+          "page": 1,
+          "chunk_text": "ISRO’s Chandrayaan-3 Mission \n \nChandrayaan-3 is a follow-on \nmission to Chandrayaan-2 to \ndemonstrate \nend-to-end \ncapability in safe landing and \nroving on the lunar surface. It \nconsists of Lander and Rover \nconfiguration."
+        }
+      ]
+    },
+    {
+      "turn_id": 1,
+      "question": "What instruments does it carry?\n",
+      "answer": "The Chandrayaan-3 mission carries the Spectro-polarimetry of Habitable Planetary Earth (SHAPE) payload. This payload is designed to study the spectral and polarimetric measurements of Earth from lunar orbit.",
+      "timestamp": 1782403531.9980376,
+      "confidence": 1.0,
+      "citations": [
+        {
+          "doc": "LVM3M4_Chandrayaan3_brochure.pdf",
+          "page": 4,
+          "chunk_text": "It also carries a \nSpectro-polarimetry of Habitable Planetary \nEarth (SHAPE) payload to study the spectral \nand polarimetric measurements of earth from \nthe lunar orbit."
+        },
+        {
+          "doc": "1.pdf",
+          "page": 1,
+          "chunk_text": "The propulsion module has Spectro-polarimetry of Habitable Planet Earth (SHAPE) payload to \nstudy the spectral and Polari metric measurements of Earth from the lunar \norbit."
+        }
+      ]
+    },
+    {
+      "turn_id": 2,
+      "question": "What did it discover?\n",
+      "answer": "The provided documents do not contain sufficient information to answer this question.",
+      "timestamp": 1782403543.7207744,
+      "confidence": 0.0,
+      "citations": []
+    },
+    {
+      "turn_id": 3,
+      "question": "What did it discover?\n",
+      "answer": "The provided documents do not contain sufficient information to answer this question.",
+      "timestamp": 1782403604.3636773,
+      "confidence": 0.0,
+      "citations": []
+    },
+    {
+      "turn_id": 4,
+      "question": "How does it communicate with Earth?\n",
+      "answer": "Chandrayaan-3 communicates with Earth using a dual-frequency communication system. The lander directly communicates with the Indian Deep Space Network (IDSN) ground station at Byalalu, Bengaluru, utilizing S-band for uplink and X-band for downlink frequencies. Additionally, the Chandrayaan-2 orbiter, which is operational in lunar orbit, acts as a communication relay between the lander and Earth, a capability that was pre-planned and successfully demonstrated.",
+      "timestamp": 1782403637.0362978,
+      "confidence": 1.0,
+      "citations": [
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 1,
+          "chunk_text": "The lander communicates with IDSN (Indian Deep Space Network) at Byalalu via S-band and X-band links, and also uses the Chandrayaan-2 orbiter as a communication relay."
+        },
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 5,
+          "chunk_text": "Chandrayaan-3 uses a dual-frequency communication system. The lander communicates directly with the Indian Deep Space Network (IDSN) ground station at Byalalu, Bengaluru using S-band (uplink) and X-band (downlink) frequencies. Additionally, the Chandrayaan-2 orbiter, which remains operational in lunar orbit, serves as a communication relay between the lander and Earth. This relay capability was pre-planned as a contingency and was successfully demonstrated during the mission."
+        }
+      ]
+    }
+  ]
+}

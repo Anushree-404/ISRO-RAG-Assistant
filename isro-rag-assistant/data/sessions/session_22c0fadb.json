@@ -1,0 +1,30 @@
+{
+  "session_id": "22c0fadb",
+  "window": 6,
+  "turns": [
+    {
+      "turn_id": 0,
+      "question": "Propulsion system of Chandrayaan-3?",
+      "answer": "The propulsion system of the Chandrayaan-3 Propulsion Module is a Bi-Propellant Propulsion System that uses MMH (Monomethylhydrazine) and MON3 (Mixed Oxides of Nitrogen). It is equipped with a 440 N liquid apogee motor (LAM) as the main engine for orbit-raising maneuvers and lunar orbit insertion, and four 50 N thrusters to provide attitude control. The propulsion module has a propellant mass of 1696.39 kg, a dry mass of 448.62 kg (including pressurant), and a total mass of 2145.01 kg (reported as 2148 kg in some mission reports). Its primary function is to carry the lander module from the launch vehicle injection orbit to a 100 km circular polar lunar orbit.",
+      "timestamp": 1779383706.898685,
+      "confidence": 1.0,
+      "citations": [
+        {
+          "doc": "LVM3M4_Chandrayaan3_brochure.pdf",
+          "page": 5,
+          "chunk_text": "4. Dry Mass 448.62 kg (including pressurant) 5. Propellant Mass 1696.39 kg 6. Total PM Mass 2145.01 kg ... 10. Propulsion System Bi-Propellant Propulsion System (MMH + MON3)"
+        },
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 1,
+          "chunk_text": "The Chandrayaan-3 propulsion module carries the spacecraft from launch injection to lunar orbit. It uses a 440 N liquid apogee motor (LAM) as the main engine for orbit-raising manoeuvres and lunar orbit insertion. The propulsion module has a total mass of 2148 kg including 1696.39 kg of propellant. Four 50 N thrusters provide attitude control."
+        },
+        {
+          "doc": "1.pdf",
+          "page": 2,
+          "chunk_text": "The main function of PM is to carry the LM from launch vehicle injection till final lunar 100 km circular polar orbit and separate the LM from PM."
+        }
+      ]
+    }
+  ]
+}

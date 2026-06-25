@@ -1,0 +1,111 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "🚀 Launch Dashboard",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "streamlit",
+            "args": [
+                "run",
+                "dashboard/app.py",
+                "--server.port", "8501",
+                "--server.address", "localhost"
+            ],
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "TRANSFORMERS_OFFLINE": "1",
+                "HF_HUB_OFFLINE": "1",
+                "HF_DATASETS_OFFLINE": "1",
+                "PYTHONPATH": "${workspaceFolder}/src"
+            },
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "📄 Ingest PDFs",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/ingest.py",
+            "args": ["--dir", "data/raw"],
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "TRANSFORMERS_OFFLINE": "1",
+                "HF_HUB_OFFLINE": "1",
+                "PYTHONPATH": "${workspaceFolder}/src"
+            },
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "🧠 Build Embeddings",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/embed.py",
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "TRANSFORMERS_OFFLINE": "1",
+                "HF_HUB_OFFLINE": "1",
+                "PYTHONPATH": "${workspaceFolder}/src"
+            },
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "🌐 Launch REST API",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "uvicorn",
+            "args": [
+                "api:app",
+                "--reload",
+                "--port", "8000"
+            ],
+            "cwd": "${workspaceFolder}/src",
+            "env": {
+                "TRANSFORMERS_OFFLINE": "1",
+                "HF_HUB_OFFLINE": "1",
+                "PYTHONPATH": "${workspaceFolder}/src"
+            },
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "🧪 Run All Tests",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "pytest",
+            "args": ["tests/", "-v", "--tb=short"],
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "TRANSFORMERS_OFFLINE": "1",
+                "HF_HUB_OFFLINE": "1",
+                "PYTHONPATH": "${workspaceFolder}/src"
+            },
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "📊 Run Full Demo",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/run_project.py",
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "TRANSFORMERS_OFFLINE": "1",
+                "HF_HUB_OFFLINE": "1",
+                "PYTHONPATH": "${workspaceFolder}/src"
+            },
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "🔧 Test Gemini Fix",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/test_fix.py",
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "TRANSFORMERS_OFFLINE": "1",
+                "HF_HUB_OFFLINE": "1",
+                "PYTHONPATH": "${workspaceFolder}/src"
+            },
+            "console": "integratedTerminal"
+        }
+    ]
+}

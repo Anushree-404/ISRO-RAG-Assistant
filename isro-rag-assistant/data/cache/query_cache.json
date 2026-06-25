@@ -1,0 +1,260 @@
+{
+  "4c1f764266b921be": {
+    "query": "what is the propulsion system of chandrayaan-3?",
+    "response": {
+      "answer": "The Chandrayaan-3 propulsion system is a Bi-Propellant Propulsion System, utilizing Monomethylhydrazine (MMH) and Mixed Oxides of Nitrogen (MON3). It employs a 440 N liquid apogee motor (LAM) as the main engine for orbit-raising maneuvers and lunar orbit insertion, complemented by four 50 N thrusters for attitude control. The propulsion module carries 1696.39 kg of propellant.",
+      "citations": [
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 1,
+          "chunk_text": "It uses a 440 N liquid apogee motor (LAM) as the main engine for orbit-raising manoeuvres and lunar orbit insertion. The propulsion module has a total mass of 2148 kg including 1696.39 kg of propellant. Four 50 N thrusters provide attitude control."
+        },
+        {
+          "doc": "LVM3M4_Chandrayaan3_brochure.pdf",
+          "page": 5,
+          "chunk_text": "Propellant Mass\n1696.39 kg\n...\nPropulsion System\nBi-Propellant Propulsion System (MMH + MON3)"
+        }
+      ],
+      "confidence_score": 1.0,
+      "retrieval_time_ms": 70.76,
+      "generation_time_ms": 9385.06,
+      "reranked": false,
+      "cache_hit": false,
+      "rewritten_query": ""
+    },
+    "ts": 1782321094.2174845,
+    "hits": 2
+  },
+  "f48a84028f69f6fb": {
+    "query": "what scientific instruments does mangalyaan carry?",
+    "response": {
+      "answer": "Mangalyaan carries five scientific instruments: LAP (Lyman Alpha Photometer) for measuring the relative abundance of deuterium and hydrogen in the Martian upper atmosphere; MSM (Methane Sensor for Mars) for measuring methane in the Martian atmosphere; TIS (Thermal Infrared Imaging Spectrometer) for mapping surface composition and mineralogy; MCC (Mars Colour Camera) for taking images of the Martian surface and its moons Phobos and Deimos; and MENCA (Mars Exospheric Neutral Composition Analyser) for studying the neutral composition of the Martian exosphere.",
+      "citations": [
+        {
+          "doc": "mangalyaan_mission_report.pdf",
+          "page": 2,
+          "chunk_text": "Mangalyaan carries five scientific instruments with a total payload mass of 15 kg. The instruments\nare: LAP (Lyman Alpha Photometer) for measuring the relative abundance of deuterium and\nhydrogen in the Martian upper atmosphere; MSM (Methane Sensor for Mars) for measuring\nmethane in the Martian atmosphere; TIS (Thermal Infrared Imaging Spectrometer) for mapping\nsurface composition and mineralogy; MCC (Mars Colour Camera) for taking images of the Martian\nsurface and its moons Phobos and Deimos; and MENCA (Mars Exospheric Neutral Composition\nAnalyser) for studying the neutral composition of the Martian exosphere."
+        }
+      ],
+      "confidence_score": 1.0,
+      "retrieval_time_ms": 37.36,
+      "generation_time_ms": 2622.05,
+      "reranked": false,
+      "cache_hit": false,
+      "rewritten_query": ""
+    },
+    "ts": 1782321101.5382252,
+    "hits": 0
+  },
+  "d50ee5e877b0cad4": {
+    "query": "what is the significance of the l1 lagrange point for aditya-l1?",
+    "response": {
+      "answer": "The L1 Lagrange point is significant for Aditya-L1 because it allows for continuous, uninterrupted viewing of the Sun without any occultation or eclipse caused by Earth or the Moon. Additionally, a spacecraft at L1 requires minimal fuel to maintain its position.",
+      "citations": [
+        {
+          "doc": "aditya_l1_mission_report.pdf",
+          "page": 2,
+          "chunk_text": "The key advantage of the L1 point for solar observation is that it allows continuous, uninterrupted viewing of the Sun without any occultation or eclipse caused by Earth or Moon. A spacecraft at L1 requires minimal fuel to maintain its position."
+        },
+        {
+          "doc": "aditya_l1_mission_report.pdf",
+          "page": 1,
+          "chunk_text": "The L1 point provides a unique vantage point for continuous, uninterrupted observation of the Sun without any occultation or eclipse."
+        }
+      ],
+      "confidence_score": 1.0,
+      "retrieval_time_ms": 57.49,
+      "generation_time_ms": 3730.38,
+      "reranked": false,
+      "cache_hit": false,
+      "rewritten_query": ""
+    },
+    "ts": 1782321109.5358236,
+    "hits": 0
+  },
+  "c36631039827b70e": {
+    "query": "regarding aditya-l1: how many astronauts will gaganyaan carry and what is the mission duration?",
+    "response": {
+      "answer": "The Gaganyaan mission is designed to carry a crew of three astronauts for a mission duration of 3 days.",
+      "citations": [
+        {
+          "doc": "gaganyaan_mission_report.pdf",
+          "page": 1,
+          "chunk_text": "The programme objective is to launch a crew of three astronauts to an orbit of 400 km altitude for a mission duration of 3 days before returning safely to Earth with a splashdown in the Bay of Bengal."
+        },
+        {
+          "doc": "gaganyaan_mission_report.pdf",
+          "page": 2,
+          "chunk_text": "The Gaganyaan Crew Module (CM) is a pressurised module designed to carry three astronauts."
+        },
+        {
+          "doc": "gaganyaan_mission_report.pdf",
+          "page": 2,
+          "chunk_text": "After reaching the target orbit of 400 km, the crew will conduct scientific experiments and technology demonstrations over 3 days."
+        }
+      ],
+      "confidence_score": 1.0,
+      "retrieval_time_ms": 40.78,
+      "generation_time_ms": 2725.96,
+      "reranked": false,
+      "cache_hit": false,
+      "rewritten_query": "Regarding Aditya-L1: How many astronauts will Gaganyaan carry and what is the mission duration?"
+    },
+    "ts": 1782321116.6168635,
+    "hits": 0
+  },
+  "526ac7481cf69ad4": {
+    "query": "what did chandrayaan-3 discover at the lunar south pole?",
+    "response": {
+      "answer": "Chandrayaan-3's Pragyan rover confirmed the presence of sulphur on the lunar south pole surface for the first time using the LIBS instrument. The APXS instrument on the rover also detected elements such as aluminium, calcium, iron, chromium, titanium, manganese, silicon, and oxygen in the lunar soil. Additionally, the ChaSTE instrument on the lander measured the temperature profile of the lunar surface, revealing a significant temperature difference of approximately 60 degrees Celsius between the surface and 8 cm below it.",
+      "citations": [
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 3,
+          "chunk_text": "The Pragyan rover confirmed the presence of sulphur on the lunar south pole surface for the first time through in-situ measurements using the LIBS instrument. The APXS instrument detected aluminium, calcium, iron, chromium, titanium, manganese, silicon, and oxygen in the lunar soil."
+        },
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 2,
+          "chunk_text": "ChaSTE (Chandra's Surface Thermophysical Experiment) instrument on the lander measured the temperature profile of the lunar surface and found a significant temperature difference of approximately 60 degrees Celsius between the surface and 8 cm below the surface."
+        },
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 2,
+          "chunk_text": "The Chandrayaan-3 lander targeted a landing site near the lunar south pole at approximately 69.37 degrees South latitude and 32.35 degrees East longitude."
+        }
+      ],
+      "confidence_score": 1.0,
+      "retrieval_time_ms": 40.93,
+      "generation_time_ms": 4068.93,
+      "reranked": false,
+      "cache_hit": false,
+      "rewritten_query": ""
+    },
+    "ts": 1782321124.9870098,
+    "hits": 0
+  },
+  "903d76a46d4e7ae6": {
+    "query": "what is chandrayaan-3?",
+    "response": {
+      "answer": "Chandrayaan-3 is India's third lunar exploration mission and a successor to Chandrayaan-2. Its primary objectives are to demonstrate safe and soft landing on the lunar surface, rover roving on the Moon, and to conduct in-situ scientific experiments. The mission also aims to develop and demonstrate new technologies required for future inter-planetary missions. Chandrayaan-3 consists of an indigenous propulsion module, a lander module, and a rover. It was launched on July 14, 2023, aboard the LVM3-M4 launch vehicle from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota, and successfully achieved a soft landing near the lunar south pole on August 23, 2023.",
+      "citations": [
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 1,
+          "chunk_text": "Chandrayaan-3 is India's third lunar exploration mission and the successor to Chandrayaan-2. The mission objective is to demonstrate safe and soft landing on the lunar surface, rover roving on the Moon, and in-situ scientific experiments. The mission was launched on 14 July 2023 aboard the LVM3-M4 launch vehicle from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota. The spacecraft successfully achieved a soft landing near the lunar south pole on 23 August 2023, making India the fourth country to achieve a soft lunar landing and the first to land near the south pole."
+        },
+        {
+          "doc": "LVM3M4_Chandrayaan3_brochure.pdf",
+          "page": 2,
+          "chunk_text": "Chandrayaan-3, India’s third lunar exploration mission is ready \nto take off in fourth operational mission (M4) of LVM3 launcher. \nISRO is crossing new frontiers by demonstrating soft landing on \nlunar surface by its lunar module and demonstrate roving on \nthe lunar terrain. It is expected to be supportive to ISRO’s future \ninterplanetary missions."
+        },
+        {
+          "doc": "LVM3M4_Chandrayaan3_brochure.pdf",
+          "page": 4,
+          "chunk_text": "Chandrayaan-3 consists of an indigenous \npropulsion module, lander module, and a \nrover with an objective of developing and \ndemonstrating new technologies required for \ninter-planetary missions."
+        },
+        {
+          "doc": "1.pdf",
+          "page": 2,
+          "chunk_text": "the capability to soft land at a specified lunar site and deploy the Rover which \nwill carry out in-situ chemical analysis of the lunar surface during the course \nof its mobility. The Lander and the Rover have scientific payloads to carry out \nexperiments on the lunar surface. The main function of PM is to carry the LM \nfrom launch vehicle injection till final lunar 100 km circular polar orbit and \nseparate the LM from PM. Apart from this, the Propulsion Module also has one \nscientific payload as a value addition which will be operated post separation of \nLander Module. The launcher identified for Chandrayaan-3 is LVM3 M4 which \nwill place the integrated module in an Elliptic Parking Orbit (EPO) of size ~170 \nx 36500 km."
+        },
+        {
+          "doc": "1.pdf",
+          "page": 1,
+          "chunk_text": "ISRO’s Chandrayaan-3 Mission \n \nChandrayaan-3 is a follow-on \nmission to Chandrayaan-2 to \ndemonstrate \nend-to-end \ncapability in safe landing and \nroving on the lunar surface. It \nconsists of Lander and Rover \nconfiguration."
+        }
+      ],
+      "confidence_score": 1.0,
+      "retrieval_time_ms": 37.54,
+      "generation_time_ms": 9988.37,
+      "reranked": false,
+      "cache_hit": false,
+      "rewritten_query": ""
+    },
+    "ts": 1782321135.3393738,
+    "hits": 1
+  },
+  "94ebaf46a4542099": {
+    "query": "regarding chandrayaan-3: what did it discover?",
+    "response": {
+      "answer": "The provided documents do not contain sufficient information to answer this question.",
+      "citations": [],
+      "confidence_score": 0.0,
+      "retrieval_time_ms": 48.04,
+      "generation_time_ms": 3400.2,
+      "reranked": false,
+      "cache_hit": false,
+      "rewritten_query": "Regarding Chandrayaan-3: What did it discover?"
+    },
+    "ts": 1782321209.6813614,
+    "hits": 2
+  },
+  "c589ff565f539286": {
+    "query": "when did chandrayana takes place?",
+    "response": {
+      "answer": "The provided documents do not contain sufficient information to answer this question.",
+      "citations": [],
+      "confidence_score": 0.0,
+      "retrieval_time_ms": 72.4,
+      "generation_time_ms": 3973.28,
+      "reranked": false,
+      "cache_hit": false,
+      "rewritten_query": ""
+    },
+    "ts": 1782402965.4949832,
+    "hits": 0
+  },
+  "94ca7be0e9a9210f": {
+    "query": "regarding chandrayaan-3: what instruments does it carry?",
+    "response": {
+      "answer": "The Chandrayaan-3 mission carries the Spectro-polarimetry of Habitable Planetary Earth (SHAPE) payload. This payload is designed to study the spectral and polarimetric measurements of Earth from lunar orbit.",
+      "citations": [
+        {
+          "doc": "LVM3M4_Chandrayaan3_brochure.pdf",
+          "page": 4,
+          "chunk_text": "It also carries a \nSpectro-polarimetry of Habitable Planetary \nEarth (SHAPE) payload to study the spectral \nand polarimetric measurements of earth from \nthe lunar orbit."
+        },
+        {
+          "doc": "1.pdf",
+          "page": 1,
+          "chunk_text": "The propulsion module has Spectro-polarimetry of Habitable Planet Earth (SHAPE) payload to \nstudy the spectral and Polari metric measurements of Earth from the lunar \norbit."
+        }
+      ],
+      "confidence_score": 1.0,
+      "retrieval_time_ms": 86.04,
+      "generation_time_ms": 21824.23,
+      "reranked": false,
+      "cache_hit": false,
+      "rewritten_query": "Regarding Chandrayaan-3: What instruments does it carry?\n"
+    },
+    "ts": 1782403531.990599,
+    "hits": 0
+  },
+  "bd8568ccb401fc72": {
+    "query": "regarding chandrayaan-3: how does it communicate with earth?",
+    "response": {
+      "answer": "Chandrayaan-3 communicates with Earth using a dual-frequency communication system. The lander directly communicates with the Indian Deep Space Network (IDSN) ground station at Byalalu, Bengaluru, utilizing S-band for uplink and X-band for downlink frequencies. Additionally, the Chandrayaan-2 orbiter, which is operational in lunar orbit, acts as a communication relay between the lander and Earth, a capability that was pre-planned and successfully demonstrated.",
+      "citations": [
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 1,
+          "chunk_text": "The lander communicates with IDSN (Indian Deep Space Network) at Byalalu via S-band and X-band links, and also uses the Chandrayaan-2 orbiter as a communication relay."
+        },
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 5,
+          "chunk_text": "Chandrayaan-3 uses a dual-frequency communication system. The lander communicates directly with the Indian Deep Space Network (IDSN) ground station at Byalalu, Bengaluru using S-band (uplink) and X-band (downlink) frequencies. Additionally, the Chandrayaan-2 orbiter, which remains operational in lunar orbit, serves as a communication relay between the lander and Earth. This relay capability was pre-planned as a contingency and was successfully demonstrated during the mission."
+        }
+      ],
+      "confidence_score": 1.0,
+      "retrieval_time_ms": 64.08,
+      "generation_time_ms": 4323.34,
+      "reranked": false,
+      "cache_hit": false,
+      "rewritten_query": "Regarding Chandrayaan-3: How does it communicate with Earth?\n"
+    },
+    "ts": 1782403637.0300884,
+    "hits": 0
+  }
+}

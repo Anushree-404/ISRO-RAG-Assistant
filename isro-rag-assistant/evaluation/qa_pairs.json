@@ -1,0 +1,182 @@
+[
+  {
+    "id": "qa_001",
+    "question": "What is the primary objective of the Chandrayaan-3 mission?",
+    "ground_truth": "Chandrayaan-3 aims to demonstrate safe and soft landing on the lunar surface, rover roving on the moon, and in-situ scientific experiments.",
+    "mission": "Chandrayaan-3"
+  },
+  {
+    "id": "qa_002",
+    "question": "What propulsion system does Chandrayaan-3 use?",
+    "ground_truth": "Chandrayaan-3 uses a propulsion module with a 440 N liquid apogee motor for orbit raising and a set of thrusters for attitude control.",
+    "mission": "Chandrayaan-3"
+  },
+  {
+    "id": "qa_003",
+    "question": "What is the mass of the Chandrayaan-3 lander?",
+    "ground_truth": "The Chandrayaan-3 lander module has a mass of approximately 1752 kg including the rover.",
+    "mission": "Chandrayaan-3"
+  },
+  {
+    "id": "qa_004",
+    "question": "Which instruments are on the Chandrayaan-3 rover Pragyan?",
+    "ground_truth": "Pragyan carries APXS (Alpha Particle X-ray Spectrometer) and LIBS (Laser Induced Breakdown Spectroscope) for elemental analysis of the lunar surface.",
+    "mission": "Chandrayaan-3"
+  },
+  {
+    "id": "qa_005",
+    "question": "What is the landing site of Chandrayaan-3?",
+    "ground_truth": "Chandrayaan-3 targeted a landing site near the lunar south pole at approximately 69.37°S, 32.35°E.",
+    "mission": "Chandrayaan-3"
+  },
+  {
+    "id": "qa_006",
+    "question": "What launch vehicle was used for Chandrayaan-3?",
+    "ground_truth": "Chandrayaan-3 was launched by LVM3-M4 (Launch Vehicle Mark-3) from Satish Dhawan Space Centre, Sriharikota.",
+    "mission": "Chandrayaan-3"
+  },
+  {
+    "id": "qa_007",
+    "question": "What is the mission life of the Chandrayaan-3 lander and rover?",
+    "ground_truth": "The lander and rover are designed for one lunar day, which is approximately 14 Earth days.",
+    "mission": "Chandrayaan-3"
+  },
+  {
+    "id": "qa_008",
+    "question": "What is the primary objective of the Mangalyaan (Mars Orbiter Mission)?",
+    "ground_truth": "Mangalyaan's primary objective was to develop the technologies required for design, planning, management and operations of an interplanetary mission, and to explore Mars surface features, morphology, mineralogy and Martian atmosphere.",
+    "mission": "Mangalyaan"
+  },
+  {
+    "id": "qa_009",
+    "question": "How long did it take Mangalyaan to reach Mars?",
+    "ground_truth": "Mangalyaan took approximately 298 days to travel from Earth to Mars after its launch in November 2013, arriving in September 2014.",
+    "mission": "Mangalyaan"
+  },
+  {
+    "id": "qa_010",
+    "question": "What instruments does Mangalyaan carry?",
+    "ground_truth": "Mangalyaan carries five scientific instruments: LAP (Lyman Alpha Photometer), MSM (Methane Sensor for Mars), TIS (Thermal Infrared Imaging Spectrometer), MCC (Mars Colour Camera), and MENCA (Mars Exospheric Neutral Composition Analyser).",
+    "mission": "Mangalyaan"
+  },
+  {
+    "id": "qa_011",
+    "question": "What is the orbit of Mangalyaan around Mars?",
+    "ground_truth": "Mangalyaan is in a highly elliptical orbit around Mars with a periapsis of about 421 km and an apoapsis of about 76,993 km.",
+    "mission": "Mangalyaan"
+  },
+  {
+    "id": "qa_012",
+    "question": "What is the Aditya-L1 mission?",
+    "ground_truth": "Aditya-L1 is India's first solar observatory mission, placed in a halo orbit around the Sun-Earth Lagrange point 1 (L1), approximately 1.5 million km from Earth, to study the solar corona, solar wind, and space weather.",
+    "mission": "Aditya-L1"
+  },
+  {
+    "id": "qa_013",
+    "question": "What payloads does Aditya-L1 carry?",
+    "ground_truth": "Aditya-L1 carries seven payloads: VELC, SUIT, SoLEXS, HEL1OS, ASPEX, PAPA, and MAG, designed to study different aspects of the Sun from the photosphere to the corona.",
+    "mission": "Aditya-L1"
+  },
+  {
+    "id": "qa_014",
+    "question": "What is the significance of the L1 Lagrange point for Aditya-L1?",
+    "ground_truth": "The L1 point allows Aditya-L1 to continuously observe the Sun without any occultation or eclipse, providing uninterrupted solar observation.",
+    "mission": "Aditya-L1"
+  },
+  {
+    "id": "qa_015",
+    "question": "What is the PSLV rocket and what missions has it launched?",
+    "ground_truth": "PSLV (Polar Satellite Launch Vehicle) is ISRO's workhorse rocket used for launching satellites into polar and sun-synchronous orbits. It has launched Chandrayaan-1, Mangalyaan, and numerous Earth observation satellites.",
+    "mission": "PSLV"
+  },
+  {
+    "id": "qa_016",
+    "question": "What is the Gaganyaan mission?",
+    "ground_truth": "Gaganyaan is India's first human spaceflight programme, aiming to send a crew of three astronauts to a 400 km orbit for a 3-day mission before returning safely to Earth.",
+    "mission": "Gaganyaan"
+  },
+  {
+    "id": "qa_017",
+    "question": "What is the Chandrayaan-2 orbiter doing currently?",
+    "ground_truth": "The Chandrayaan-2 orbiter continues to function in lunar orbit, conducting remote sensing of the Moon's surface and acting as a communication relay for Chandrayaan-3.",
+    "mission": "Chandrayaan-2"
+  },
+  {
+    "id": "qa_018",
+    "question": "What caused the Chandrayaan-2 lander Vikram to fail?",
+    "ground_truth": "The Chandrayaan-2 lander Vikram experienced a software anomaly during the fine braking phase of descent, causing it to deviate from its intended trajectory and crash-land on the lunar surface.",
+    "mission": "Chandrayaan-2"
+  },
+  {
+    "id": "qa_019",
+    "question": "What is the GSLV Mark III rocket?",
+    "ground_truth": "GSLV Mark III (now LVM3) is ISRO's heaviest launch vehicle, capable of placing 4-tonne class satellites in geostationary transfer orbit and 10 tonnes to low Earth orbit. It uses two solid strap-on boosters, a liquid core stage, and a cryogenic upper stage.",
+    "mission": "GSLV"
+  },
+  {
+    "id": "qa_020",
+    "question": "What scientific discoveries were made by Chandrayaan-1?",
+    "ground_truth": "Chandrayaan-1 confirmed the presence of water ice on the Moon, particularly at the polar regions, through its Moon Mineralogy Mapper (M3) instrument in collaboration with NASA.",
+    "mission": "Chandrayaan-1"
+  },
+  {
+    "id": "qa_021",
+    "question": "What is the role of ISRO's NAVIC system?",
+    "ground_truth": "NavIC (Navigation with Indian Constellation) is India's regional navigation satellite system providing accurate position information over India and the surrounding region up to 1500 km.",
+    "mission": "NAVIC"
+  },
+  {
+    "id": "qa_022",
+    "question": "What is the Chandrayaan-3 propulsion module's scientific payload?",
+    "ground_truth": "The Chandrayaan-3 propulsion module carries the SHAPE (Spectro-polarimetry of HAbitable Planet Earth) payload to study Earth's spectral and polarimetric measurements from lunar orbit.",
+    "mission": "Chandrayaan-3"
+  },
+  {
+    "id": "qa_023",
+    "question": "What is the communication system used by Chandrayaan-3?",
+    "ground_truth": "Chandrayaan-3 uses S-band and X-band communication links. The lander communicates with the Indian Deep Space Network (IDSN) at Byalalu and also with the Chandrayaan-2 orbiter as a relay.",
+    "mission": "Chandrayaan-3"
+  },
+  {
+    "id": "qa_024",
+    "question": "What is the power generation system of the Chandrayaan-3 lander?",
+    "ground_truth": "The Chandrayaan-3 lander generates power using solar panels with a total power generation capacity of 738 W.",
+    "mission": "Chandrayaan-3"
+  },
+  {
+    "id": "qa_025",
+    "question": "What is the speed of the Mangalyaan spacecraft at Mars orbit insertion?",
+    "ground_truth": "Mangalyaan performed a Mars Orbit Insertion (MOI) burn of approximately 24 minutes to reduce its velocity and be captured by Martian gravity.",
+    "mission": "Mangalyaan"
+  },
+  {
+    "id": "qa_026",
+    "question": "What is the VELC instrument on Aditya-L1?",
+    "ground_truth": "VELC (Visible Emission Line Coronagraph) is the primary payload on Aditya-L1, designed to study the solar corona and dynamics of coronal mass ejections.",
+    "mission": "Aditya-L1"
+  },
+  {
+    "id": "qa_027",
+    "question": "How does ISRO's RISAT satellite work?",
+    "ground_truth": "RISAT (Radar Imaging Satellite) uses Synthetic Aperture Radar (SAR) to image Earth's surface in all weather conditions, day and night, for applications in agriculture, forestry, and disaster management.",
+    "mission": "RISAT"
+  },
+  {
+    "id": "qa_028",
+    "question": "What is the Chandrayaan-3 lander's hazard detection system?",
+    "ground_truth": "Chandrayaan-3's lander uses a Lander Hazard Detection and Avoidance Camera (LHDAC) and a Laser Doppler Velocimeter (LDV) to detect and avoid hazards during the final descent phase.",
+    "mission": "Chandrayaan-3"
+  },
+  {
+    "id": "qa_029",
+    "question": "What is the significance of Chandrayaan-3's south pole landing?",
+    "ground_truth": "The lunar south pole is scientifically significant because permanently shadowed craters may contain water ice deposits, which could be resources for future lunar exploration and human habitation.",
+    "mission": "Chandrayaan-3"
+  },
+  {
+    "id": "qa_030",
+    "question": "What is the total cost of the Chandrayaan-3 mission?",
+    "ground_truth": "The Chandrayaan-3 mission had a total cost of approximately 6.15 billion Indian rupees (approximately 75 million USD), making it one of the most cost-effective lunar missions.",
+    "mission": "Chandrayaan-3"
+  }
+]

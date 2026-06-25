@@ -1,0 +1,29 @@
+{
+    "python.defaultInterpreterPath": "C:\\Python314\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "terminal.integrated.cwd": "${workspaceFolder}",
+    "terminal.integrated.env.windows": {
+        "TRANSFORMERS_OFFLINE": "1",
+        "HF_HUB_OFFLINE": "1",
+        "HF_DATASETS_OFFLINE": "1",
+        "PYTHONPATH": "${workspaceFolder}/src"
+    },
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/src"
+    ],
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": ["tests", "-v"],
+    "python.testing.unittestEnabled": false,
+    "editor.formatOnSave": false,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": true,
+        ".pytest_cache": true
+    },
+    "python.analysis.typeCheckingMode": "off",
+    "files.associations": {
+        "*.env": "dotenv"
+    },
+    "editor.rulers": [88],
+    "python.terminal.launchArgs": ["-u"]
+}

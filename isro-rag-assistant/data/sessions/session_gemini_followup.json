@@ -1,0 +1,83 @@
+{
+  "session_id": "gemini_followup",
+  "window": 4,
+  "turns": [
+    {
+      "turn_id": 0,
+      "question": "What is Chandrayaan-3?",
+      "answer": "Chandrayaan-3 is India's third lunar exploration mission, succeeding Chandrayaan-2. Its primary objectives include demonstrating a safe and soft landing on the lunar surface, rover roving on the Moon, and conducting in-situ scientific experiments. The mission also aims to develop and demonstrate new technologies essential for future interplanetary missions. Chandrayaan-3 comprises an indigenous propulsion module, a lander module, and a rover. It was launched on July 14, 2023, aboard the LVM3-M4 launch vehicle from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota.",
+      "timestamp": 1778692448.0427988,
+      "confidence": 1.0,
+      "citations": [
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 1,
+          "chunk_text": "Chandrayaan-3 is India's third lunar exploration mission and the successor to Chandrayaan-2."
+        },
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 1,
+          "chunk_text": "The mission objective is to demonstrate safe and soft landing on the lunar surface, rover roving on the Moon, and in-situ scientific experiments."
+        },
+        {
+          "doc": "LVM3M4_Chandrayaan3_brochure.pdf",
+          "page": 2,
+          "chunk_text": "ISRO is crossing new frontiers by demonstrating soft landing on lunar surface by its lunar module and demonstrate roving on the lunar terrain. It is expected to be supportive to ISRO’s future interplanetary missions. Additionally the deployment of rover and in-situ scientific experiment will scale new heights in lunar expeditions by deploying Rover."
+        },
+        {
+          "doc": "LVM3M4_Chandrayaan3_brochure.pdf",
+          "page": 4,
+          "chunk_text": "Chandrayaan-3 consists of an indigenous propulsion module, lander module, and a rover with an objective of developing and demonstrating new technologies required for inter-planetary missions."
+        },
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 1,
+          "chunk_text": "The mission was launched on 14 July 2023 aboard the LVM3-M4 launch vehicle from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota."
+        }
+      ]
+    },
+    {
+      "turn_id": 1,
+      "question": "What about its rover?",
+      "answer": "The Chandrayaan-3 mission includes a rover named Pragyan, which has a mass of 26 kg. It is designed to operate for one lunar day, equivalent to approximately 14 Earth days, moving at a speed of 1 cm/s on the lunar surface. The rover is equipped with two scientific payloads: the Alpha Particle X-ray Spectrometer (APXS) for elemental analysis of the lunar surface, and the Laser Induced Breakdown Spectroscope (LIBS) for determining the elemental composition of rocks and soil. Pragyan generates 50 W of power from its solar panel. The rover's objectives include demonstrating roving on the lunar terrain and conducting in-situ scientific experiments.",
+      "timestamp": 1778692504.7008076,
+      "confidence": 1.0,
+      "citations": [
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 2,
+          "chunk_text": "The Pragyan rover has a mass of 26 kg and is designed for one lunar day (approximately 14 Earth days) of operation. It moves at a speed of 1 cm/s on the lunar surface. The rover carries two scientific payloads: APXS (Alpha Particle X-ray Spectrometer) for elemental analysis of the lunar surface, and LIBS (Laser Induced Breakdown Spectroscope) for determining the elemental composition of rocks and soil. The rover generates 50 W of power from its solar panel."
+        },
+        {
+          "doc": "LVM3M4_Chandrayaan3_brochure.pdf",
+          "page": 1,
+          "chunk_text": "Chandrayaan-3 consists of an indigenous \npropulsion module, lander module, and a \nrover with an objective of developing and \ndemonstrating new technologies required for \ninter-planetary missions."
+        },
+        {
+          "doc": "LVM3M4_Chandrayaan3_brochure.pdf",
+          "page": 2,
+          "chunk_text": "ISRO is crossing new frontiers by demonstrating soft landing on \nlunar surface by its lunar module and demonstrate roving on \nthe lunar terrain.\nAdditionally the deployment of rover and in-situ scientific \nexperiment will scale new heights in lunar expeditions by \ndeploying Rover."
+        }
+      ]
+    },
+    {
+      "turn_id": 2,
+      "question": "What did it discover?",
+      "answer": "The provided documents describe the scientific objectives and capabilities of Chandrayaan-3's payloads, but do not contain information about specific discoveries made by the mission. The rover, Pragyan, is equipped with the Alpha Particle X-ray Spectrometer (APXS) for elemental analysis of the lunar surface and the Laser Induced Breakdown Spectroscope (LIBS) for determining the elemental composition of rocks and soil. The propulsion module carries the Spectro-polarimetry of Habitable Planetary Earth (SHAPE) payload to study the spectral and polarimetric measurements of Earth from lunar orbit.",
+      "timestamp": 1778692508.824679,
+      "confidence": 0.9,
+      "citations": [
+        {
+          "doc": "LVM3M4_Chandrayaan3_brochure.pdf",
+          "page": 4,
+          "chunk_text": "It also carries a \nSpectro-polarimetry of Habitable Planetary \nEarth (SHAPE) payload to study the spectral \nand polarimetric measurements of earth from \nthe lunar orbit."
+        },
+        {
+          "doc": "chandrayaan3_mission_report.pdf",
+          "page": 2,
+          "chunk_text": "The rover carries two \nscientific payloads: APXS (Alpha Particle X-ray Spectrometer) for elemental analysis of the lunar \nsurface, and LIBS (Laser Induced Breakdown Spectroscope) for determining the elemental \ncomposition of rocks and soil."
+        }
+      ]
+    }
+  ]
+}

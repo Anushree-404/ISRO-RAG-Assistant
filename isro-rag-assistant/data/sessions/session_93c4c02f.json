@@ -1,0 +1,14 @@
+{
+  "session_id": "93c4c02f",
+  "window": 6,
+  "turns": [
+    {
+      "turn_id": 0,
+      "question": "What is Chandrayaan-3?\n\n",
+      "answer": "{\n  \"answer\": \"Chandrayaan-3 is India's third lunar exploration mission and the successor to Chandrayaan-2, designed to demonstrate end-to-end capability in safe soft landing and roving on the lunar surface. The mission configuration includes an indigenous Propulsion Module (PM), Lander Module (LM), and a Rover. It was launched on 14 July 2023 aboard the LVM3-M4 launch vehicle from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota. On 23 August 2023, the spacecraft successfully achieved a soft landing near the lunar south pole, making India the first country to land in that region and the fourth country overall to achieve a soft lunar landing. Beyond landing and roving, the mission's objectives include conducting in-situ scientific experiments and developing technologies for future interplanetary missions. The Propulsion Module also carries the Spectro-polarimetry of Habitable Planet Earth (SHAPE) payload to perform spectral and polarimetric measurements of Earth from a 100 km lunar orbit.\",\n  \"citations\": [\n    {\n      \"doc\": \"chandrayaan3_mission_report.pdf\",\n      \"page\": 1,\n      \"chunk_text\": \"Chandrayaan-3 is India's third lunar exploration mission and the successor to Chandrayaan-2. The mission objective is to demonstrate safe and soft landing on the lunar surface, rover roving on the Moon, and in-situ scientific experiments.\"\n    },\n    {\n      \"doc\": \"chandrayaan3_mission_report.pdf\",\n      \"page\": 1,\n      \"chunk_text\": \"The mission was launched on 14 July 2023 aboard the LVM3-M4 launch vehicle from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota. The spacecraft successfully achieved a soft landing near the lunar south pole on 23 August 2023, making India the fourth country to achieve a soft lunar landing and the first to land near the south pole.\"\n    },\n    {\n      \"doc\": \"1.pdf\",\n      \"page\": 1,\n      \"chunk_text\": \"Chandrayaan-3 consists of an indigenous Lander module (LM), Propulsion module (PM) and a Rover with an objective of developing and demonstrating new technologies required for Inter",
+      "timestamp": 1778866249.7741926,
+      "confidence": 0.3,
+      "citations": []
+    }
+  ]
+}
