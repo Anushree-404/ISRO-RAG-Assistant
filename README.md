@@ -12,7 +12,6 @@ Every answer comes with **grounded citations**, a **confidence score**, and an a
 **hallucination check**.
 
 **Example:**
-
 ```json
 {
   "answer": "The Chandrayaan-3 propulsion module uses a 440 N Liquid Apogee Motor...",
